@@ -1,0 +1,101 @@
+id,nombres,apellidos,genero,Ciudad,matematicas,lenguaje,ciencias,ingles,ciudadanas
+1,Giacomo,Snyder,Femenino,Viddalba,72,34,80,74,55
+2,Paloma,Buck,Femenino,Graven Grez-Doiceau,29,38,59,97,79
+3,Brenna,Peck,Masculino,Breton,55,72,80,97,25
+4,Quamar,Reilly,Masculino,Almelo,37,24,9,14,15
+5,Quyn,Wright,Masculino,Tucson,75,98,12,80,88
+6,Adria,Hewitt,Masculino,Macklin,49,57,90,80,3
+7,Blake,Little,Femenino,Yerbas Buenas,84,67,36,39,21
+8,Fitzgerald,Figueroa,Masculino,Boninne,40,73,86,50,47
+9,Jeremy,Flores,Femenino,Minneapolis,68,79,40,82,55
+10,Alexis,Anderson,Femenino,Deurne,49,68,49,43,96
+11,Hayfa,Lopez,Femenino,Etroubles,93,52,40,16,73
+12,Oscar,Travis,Masculino,Burdinne,63,3,13,72,92
+13,Akeem,Kirk,Femenino,Rabbi,10,42,69,40,97
+14,Jaquelyn,Bowers,Femenino,Arauco,30,72,35,16,39
+15,Fletcher,Miller,Masculino,Naumburg,12,39,49,89,3
+16,Deanna,Carver,Femenino,Rigolet,92,34,51,95,27
+17,Erasmus,Barnes,Masculino,Puerto Octay,62,100,7,80,79
+18,Damon,Pope,Femenino,Daly,92,44,42,59,40
+19,Burton,Barry,Masculino,Oyen,37,83,39,91,6
+20,Rudyard,Dean,Femenino,Hoyerswerda,8,25,30,67,30
+21,Zeus,Fowler,Femenino,Neusiedl am See,76,89,8,35,49
+22,Lionel,Thomas,Femenino,Montluon,5,24,79,66,39
+23,Melissa,Mason,Femenino,Walhain-Saint-Paul,53,76,92,11,66
+24,Randall,Palmer,Masculino,Watson Lake,21,80,58,5,46
+25,Quinlan,Burt,Femenino,Sevilla,41,90,60,14,42
+26,Aline,Bradford,Femenino,Burntisland,52,45,63,25,59
+27,Kennedy,Jennings,Femenino,San Nicols de los Garza,98,76,59,71,55
+28,Driscoll,Keith,Masculino,Wardin,8,23,56,17,30
+29,Benedict,Ellison,Femenino,Meridian,76,98,80,67,97
+30,Warren,Hopkins,Masculino,Bblingen,98,79,70,96,14
+31,Baker,Osborn,Femenino,Cannock,62,30,27,100,48
+32,Yvette,Reed,Masculino,Gvle,50,14,14,13,19
+33,Imelda,Walker,Masculino,Tirunelveli,86,18,60,4,28
+34,Rudyard,Bean,Femenino,Borgomasino,54,94,81,95,11
+35,Barclay,Jones,Masculino,Saratov,60,42,63,79,39
+36,Wade,Yates,Femenino,S?upsk,15,84,8,84,23
+37,Chloe,Parker,Masculino,Troon,43,56,77,46,43
+38,Shaeleigh,Mercer,Femenino,Sheikhupura,37,13,12,46,50
+39,Carl,Newton,Masculino,Naperville,8,24,71,5,49
+40,Rhonda,Sanders,Masculino,Palmiano,13,5,69,36,5
+41,Jakeem,Baker,Femenino,Hull,49,96,84,63,55
+42,Dalton,Mcfadden,Masculino,Gimhae,15,6,17,40,20
+43,Jaden,Stout,Femenino,Ninhue,100,10,24,47,89
+44,Graham,Irwin,Femenino,Ayas,87,61,29,24,50
+45,Daryl,Wood,Femenino,Eernegem,20,31,90,42,44
+46,Brooke,Reynolds,Masculino,Birmingham,63,37,81,57,89
+47,Eaton,Adams,Femenino,Felixstowe,39,77,41,23,26
+48,Alden,Mcdowell,Femenino,Meix-le-Tige,18,95,31,72,79
+49,Imogene,Rowe,Masculino,Malartic,45,9,78,79,84
+50,Kay,Alston,Femenino,Laon,97,94,14,71,22
+51,Zane,Odom,Femenino,Angleur,10,23,67,2,5
+52,Blaze,Osborn,Femenino,Dunstable,15,20,16,12,68
+53,Phoebe,White,Femenino,Granada,88,38,62,10,87
+54,Ferris,George,Femenino,Shivapuri,45,42,61,30,1
+55,Haley,Allen,Femenino,Glasgow,73,29,79,7,96
+56,Unity,Jarvis,Femenino,Ercolano,73,90,12,8,88
+57,Jemima,Cohen,Femenino,Serpukhov,73,90,87,16,75
+58,Rebekah,Monroe,Femenino,K?dzierzyn-Ko?le,54,26,77,30,59
+59,Burke,Pennington,Masculino,Mol,6,27,37,20,66
+60,Wylie,Gates,Femenino,Rzeszw,86,5,66,57,24
+61,William,Calderon,Masculino,Ponta Grossa,59,81,79,34,1
+62,Laith,Mercer,Masculino,Palagianello,86,69,18,10,34
+63,Ursula,Abbott,Femenino,Torchiarolo,58,40,33,3,45
+64,Joan,Sutton,Masculino,Adria,70,20,17,87,72
+65,Penelope,Gay,Femenino,Limoges,47,24,84,27,39
+66,Darrel,Gill,Femenino,Pulderbos,13,11,98,94,32
+67,Ferdinand,Weeks,Masculino,Montreuil,75,52,10,4,44
+68,Robin,Preston,Masculino,Petorca,59,14,16,2,74
+69,Hayes,Kent,Femenino,Greenlaw,29,11,87,15,72
+70,Mariko,Dorsey,Masculino,Juneau,16,83,29,68,3
+71,Honorato,Cash,Masculino,Rechnitz,37,22,75,37,20
+72,Jolie,Gilliam,Femenino,Courbevoie,13,51,76,49,64
+73,Desirae,Brock,Femenino,Gressoney-Saint-Jean,100,59,20,13,6
+74,Xenos,Sweeney,Femenino,Kohlu,75,83,99,56,78
+75,Price,Hewitt,Masculino,Stewart,83,81,86,1,6
+76,Ezra,Molina,Femenino,Porvenir,62,44,48,99,77
+77,Xenos,Clay,Femenino,Lanklaar,62,86,47,87,45
+78,Shaine,Flynn,Masculino,Outremont,57,88,43,53,32
+79,Oscar,Grimes,Femenino,Nocera Umbra,83,94,58,62,29
+80,Sigourney,Tanner,Femenino,Anghiari,27,66,5,71,96
+81,Martena,Sawyer,Femenino,Quispamsis,80,33,92,7,23
+82,Driscoll,Bailey,Masculino,Colbn,43,20,14,28,1
+83,Ferris,Henderson,Masculino,Armo,15,88,56,95,46
+84,Tiger,Ray,Masculino,Scorrano,44,4,79,3,68
+85,Donna,Glover,Masculino,Novoli,4,89,43,42,70
+86,Ayanna,Osborn,Masculino,Opprebais,82,66,53,96,86
+87,Steven,Pugh,Femenino,Hay River,47,21,92,63,61
+88,Bruce,Foley,Masculino,Lota,54,59,90,86,23
+89,Merrill,Salas,Masculino,Lanark County,12,41,53,22,10
+90,Melinda,Dorsey,Femenino,Malartic,73,25,67,15,31
+91,Alden,Garner,Femenino,Corbara,67,17,63,39,82
+92,Devin,Valdez,Masculino,Eluru,70,90,84,34,91
+93,Dane,Blanchard,Femenino,Sydney,97,5,24,85,29
+94,Chase,Sexton,Masculino,Sint-Kruis,10,4,41,73,28
+95,Dorian,Burton,Masculino,Novozybkov,39,90,60,57,30
+96,Graham,Ramos,Masculino,Nandyal,45,34,90,79,72
+97,Xenos,Wells,Femenino,Vicoli,45,46,93,17,35
+98,Orli,Forbes,Masculino,Vierzon,21,46,38,82,60
+99,Caldwell,Garcia,Masculino,Lelystad,85,83,59,34,26
+100,Paula,Chen,Femenino,Jonesboro,1,77,31,17,85
